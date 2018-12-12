@@ -1,0 +1,21 @@
+button{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(128, 128, 128);
+    margin: 1px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+table{
+    margin: 40px;
+}
+body{
+    background-color: beige;
+}
+
+h1{
+    font-family: 'Unlock', cursive;
+}
+h2,h3{
+    font-family: 'Play', sans-serif;
+}
