@@ -1,8 +1,8 @@
-var player1Name = prompt("Player One:enter your Name, you will be Blue");
+var player1Name = prompt("Player One: Enter your Name, you will be Blue");
 var player1Color = 'rgb(86, 151, 255)';
 //rgb is used as Jquery requires a string in this particular format
 
-var player2Name = prompt("Player two:enter your Name, Ypu will be red");
+var player2Name = prompt("Player two: Enter your Name, You will be red");
 var player2Color = 'rgb(237, 45, 73)';
 
 var game_on = true;
